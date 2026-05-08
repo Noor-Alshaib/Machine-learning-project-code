@@ -1,4 +1,6 @@
 # Machine-learning-project-code
+This repository contains our final Machine learning code.
+
 Dataset: Oil and gas pipeline predictive maintenance
 
 
